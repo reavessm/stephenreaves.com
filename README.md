@@ -1,2 +1,5 @@
 # stephenreaves.com
-Personal Website
+
+My Personal Website
+
+This website will host my resume, blog, misc. projects, and other things
